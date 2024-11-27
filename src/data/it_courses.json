@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Programming",
+      "slug": "introduction-to-programming",
+      "description": "Learn the basics of programming using Python in this beginner-friendly course.",
+      "price": 99.99,
+      "instructor": "Alice Thompson",
+      "isFeatured": true,
+      "image": "/courses/programming.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Web Development Bootcamp",
+      "slug": "web-development-bootcamp",
+      "description": "Master HTML, CSS, and JavaScript to build modern, responsive websites.",
+      "price": 119.99,
+      "instructor": "Mark Johnson",
+      "isFeatured": false,
+      "image": "/courses/web-dev.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Data Structures and Algorithms",
+      "slug": "data-structures-algorithms",
+      "description": "Understand key data structures and algorithms to solve complex computational problems.",
+      "price": 129.99,
+      "instructor": "Sandra Miller",
+      "isFeatured": true,
+      "image": "/courses/data-structures.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Advanced Data Structures and Algorithms",
+      "slug": "advanced-dsa",
+      "description": "Master advanced data structures and algorithms to tackle competitive coding challenges.",
+      "price": 149.99,
+      "instructor": "Daniel Clark",
+      "isFeatured": false,
+      "image": "/courses/advanced-dsa.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Machine Learning Basics",
+      "slug": "machine-learning-basics",
+      "description": "Get started with machine learning and build your first predictive model using Python.",
+      "price": 139.99,
+      "instructor": "James Cooper",
+      "isFeatured": false,
+      "image": "/courses/machine-learning.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Cybersecurity Fundamentals",
+      "slug": "cybersecurity-fundamentals",
+      "description": "Learn the fundamentals of cybersecurity to protect systems from cyber threats.",
+      "price": 149.99,
+      "instructor": "Robert Stevens",
+      "isFeatured": true,
+      "image": "/courses/cybersecurity.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Cloud Computing with AWS",
+      "slug": "cloud-computing-aws",
+      "description": "Dive into cloud computing with AWS and learn how to deploy scalable applications.",
+      "price": 159.99,
+      "instructor": "Laura Adams",
+      "isFeatured": true,
+      "image": "/courses/cloud-computing.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Database Design and SQL",
+      "slug": "database-design-sql",
+      "description": "Master the essentials of relational databases and SQL to manage data effectively.",
+      "price": 109.99,
+      "instructor": "Brian White",
+      "isFeatured": false,
+      "image": "/courses/database-design.jpg"
+    },
+    {
+      "id": 9,
+      "title": "DevOps Practices",
+      "slug": "devops-practices",
+      "description": "Learn the principles of DevOps to streamline development, deployment, and operations.",
+      "price": 169.99,
+      "instructor": "Sarah King",
+      "isFeatured": true,
+      "image": "/courses/devops.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Artificial Intelligence",
+      "slug": "artificial-intelligence",
+      "description": "Explore the fundamentals of AI and build your own AI-powered applications.",
+      "price": 179.99,
+      "instructor": "Tom Harris",
+      "isFeatured": false,
+      "image": "/courses/ai.jpg"
+    }
+  ]
+}
